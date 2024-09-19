@@ -8,7 +8,6 @@ Este é um programa simples que implementa a **Conjectura de Collatz**, uma hip�
 3. [Como Executar](#como-executar)
 4. [Exemplo de Uso](#exemplo-de-uso)
 5. [Tecnologias Utilizadas](#tecnologias-utilizadas)
-6. [Licença](#licença)
 
 ## Descrição do Projeto
 
@@ -33,7 +32,7 @@ Este projeto foi desenvolvido para explorar essa sequência, contando o número 
 3. Execute o programa no terminal com o seguinte comando:
 
     ```bash
-    python collatz.py
+    Collatz.py
     ```
 
 4. Insira um número natural positivo quando solicitado.
@@ -52,3 +51,9 @@ Valor atual de c0: 4
 Valor atual de c0: 2
 Valor final de c0: 1
 Número total de etapas: 8
+```
+
+## Tecnologia Utilizada
+Python
+
+

@@ -53,7 +53,7 @@ Valor final de c0: 1
 Número total de etapas: 8
 ```
 
-## Tecnologia Utilizada
-Python
+## Tecnologias Utilizadas
+- Python
 
 
